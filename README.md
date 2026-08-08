@@ -13,6 +13,8 @@ A fun, colorful, and interactive **Bubble Shooter game** built with **Python and
 * 🔄 Restart/replay functionality
 * 🎨 Colorful and user-friendly interface
 * ⚡ Smooth gameplay using Pygame
+* 🚘 BMW wallpaper
+* ▶️ Resume option
 
 ## 🛠️ Technologies Used
 
